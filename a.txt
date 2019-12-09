@@ -1,0 +1,5 @@
+xinga 
+this is a test file 
+
+related to creating a repository in git 
+
